@@ -6,6 +6,9 @@ using System.Web.Mvc;
 
 namespace SWAPP.Controllers
 {
+    /// <summary>
+    /// Home Controller
+    /// </summary>
     public class HomeController : Controller
     {
         public ActionResult Index()
