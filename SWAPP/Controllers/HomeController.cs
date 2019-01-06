@@ -11,6 +11,10 @@ namespace SWAPP.Controllers
     /// </summary>
     public class HomeController : Controller
     {
+        /// <summary>
+        /// Index API 
+        /// </summary>
+        /// <returns></returns>
         public ActionResult Index()
         {
             return View();
